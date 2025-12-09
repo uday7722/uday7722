@@ -14,7 +14,7 @@ Java • Spring Boot • Spring Data JPA • REST APIs • Microservices • Spr
 Database • MySQL 
 Messaging & Integration • Google Pub/Sub 
 
-Tools & DevOps
+🧑‍💻 Tools
 Git • Postman • IntelliJ IDEA • Maven
 
 Reporting • Jasper Reports
@@ -23,23 +23,18 @@ Reporting • Jasper Reports
 
 Backend Developer — NumeroAlpha LLP (Dec 2024 – Present)
 
-Developing backend microservices for employee management and payroll workflows
-
-Implementing asynchronous message-driven workflows using Google Pub/Sub
-
-Creating and optimizing REST APIs for payroll modules
-
-Improving MySQL performance through indexing & optimized queries
-
-Supporting PDF generation for payroll outputs using Jasper Reports
-
-Collaborating with frontend teams to ensure smooth API integrations
+ • Developing backend microservices for employee management and payroll workflows
+ • Implementing asynchronous message-driven workflows using Google Pub/Sub
+ • Creating and optimizing REST APIs for payroll modules
+ • Improving MySQL performance through indexing & optimized queries
+ • Supporting PDF generation for payroll outputs using Jasper Reports
+ • Collaborating with frontend teams to ensure smooth API integrations
 
 📂 Featured Projects
 Payroll System – NumeroAlpha LLP
-Java | Spring Boot | RabbitMQ | MySQL | Docker | AWS ECS | GCP
+ • Java | Spring Boot | RabbitMQ | MySQL | Docker | AWS ECS | GCP
 
-Built modular backend services for real-time payroll processing.
-Implemented asynchronous communication between services for reliability.
-Developed batch processing pipelines for monthly payroll runs.
-Managed cloud deployments and production monitoring.
+ • Built modular backend services for real-time payroll processing.
+ • Implemented asynchronous communication between services for reliability.
+ • Developed batch processing pipelines for monthly payroll runs.
+ • Managed cloud deployments and production monitoring.
