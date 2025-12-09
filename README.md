@@ -13,6 +13,17 @@ Messaging: Google Pub/Sub
 Tools: Git, Postman, IntelliJ IDEA
 Other: Jasper Reports, JSON, Maven
 
+💼 Current Work
+Backend Developer – NumeroAlpha LLP (Dec 2024 – Present)
+
+Developing backend microservices for employee management, payroll calculation, tax processing, payslip generation, and reporting.
+Implementing asynchronous, message-driven workflows using Google Cloud Pub/Sub.
+Automating batch payroll operations using Spring Integration.
+Optimizing MySQL databases for high-volume payroll transactions.
+Containerizing services with Docker and handling deployments on AWS ECS & GCP.
+Writing unit and integration tests to ensure stable, reliable code.
+Collaborating closely with frontend teams to integrate APIs seamlessly.
+
 🚀 Projects
 Payroll Microservices 
 
