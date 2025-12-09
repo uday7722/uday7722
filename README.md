@@ -28,6 +28,7 @@ Collaborating closely with frontend teams to integrate APIs seamlessly.
 Payroll System – NumeroAlpha LLP
 Java | Spring Boot | RabbitMQ | MySQL | Docker | AWS ECS | GCP
 
+
 Built modular backend services for real-time payroll processing.
 Implemented asynchronous communication between services for reliability.
 Developed batch processing pipelines for monthly payroll runs.
