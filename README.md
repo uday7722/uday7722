@@ -1,35 +1,36 @@
-Hi, I'm Uday Annapureddy 👋
+Hi there! 👋 I'm Uday Annapureddy
+Java Backend Developer | Spring Boot | REST APIs | MySQL | Google Pub/Sub
 
-Java Backend Developer | Spring Boot | MySQL | REST APIs | Google Pub/Sub
+I love building reliable backend systems using Java and Spring Boot.
+Currently, I work as a Backend Developer at NumeroAlpha LLP, contributing to real-time payroll processing, event-driven workflows, and scalable backend services.
 
-I'm a backend developer with experience building microservices, REST APIs, and event-driven systems. I work with Java, Spring Boot, MySQL, and have hands-on experience with Google Pub/Sub in payroll and compensation-related modules.
+I enjoy learning new technologies, writing clean code, and building systems that solve real problems.
 
-🔧 Tech Stack
+⚙️ Technologies & Tools
+Backend
 
-Languages: Java, SQL
-Backend: Spring Boot, Microservices, REST APIs
-Database: MySQL
-Messaging: Google Pub/Sub
-Tools: Git, Postman, IntelliJ IDEA
-Other: Jasper Reports, JSON, Maven
+Java • Spring Boot • Spring Data JPA • REST APIs • Microservices • Spring Security (Basics)
+
+Database • MySQL 
+Messaging & Integration • Google Pub/Sub 
+
+Tools & DevOps
+Git • Postman • IntelliJ IDEA • Maven
+
+Reporting • Jasper Reports
 
 💼 Current Work
-Backend Developer – NumeroAlpha LLP (Dec 2024 – Present)
 
-Developing backend microservices for employee management, payroll calculation, tax processing, payslip generation, and reporting.
-Implementing asynchronous, message-driven workflows using Google Cloud Pub/Sub.
-Automating batch payroll operations using Spring Integration.
-Optimizing MySQL databases for high-volume payroll transactions.
-Containerizing services with Docker and handling deployments on AWS ECS & GCP.
-Writing unit and integration tests to ensure stable, reliable code.
-Collaborating closely with frontend teams to integrate APIs seamlessly.
+Backend Developer — NumeroAlpha LLP (Dec 2024 – Present)
 
-📂 Featured Projects
-Payroll System – NumeroAlpha LLP
-Java | Spring Boot | RabbitMQ | MySQL | Docker | AWS ECS | GCP
+Developing backend microservices for employee management and payroll workflows
 
+Implementing asynchronous message-driven workflows using Google Pub/Sub
 
-Built modular backend services for real-time payroll processing.
-Implemented asynchronous communication between services for reliability.
-Developed batch processing pipelines for monthly payroll runs.
-Managed cloud deployments and production monitoring.
+Creating and optimizing REST APIs for payroll modules
+
+Improving MySQL performance through indexing & optimized queries
+
+Supporting PDF generation for payroll outputs using Jasper Reports
+
+Collaborating with frontend teams to ensure smooth API integrations
