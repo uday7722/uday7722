@@ -24,8 +24,11 @@ Containerizing services with Docker and handling deployments on AWS ECS & GCP.
 Writing unit and integration tests to ensure stable, reliable code.
 Collaborating closely with frontend teams to integrate APIs seamlessly.
 
-🚀 Projects
-Payroll Microservices 
+📂 Featured Projects
+Payroll System – NumeroAlpha LLP
+Java | Spring Boot | RabbitMQ | MySQL | Docker | AWS ECS | GCP
 
-Backend services for payroll processing with Pub/Sub integration for event-driven workflows.
-Tech: Java, Spring Boot, MySQL, REST APIs, Google Pub/Sub
+Built modular backend services for real-time payroll processing.
+Implemented asynchronous communication between services for reliability.
+Developed batch processing pipelines for monthly payroll runs.
+Managed cloud deployments and production monitoring.
