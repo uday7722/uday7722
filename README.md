@@ -34,3 +34,12 @@ Improving MySQL performance through indexing & optimized queries
 Supporting PDF generation for payroll outputs using Jasper Reports
 
 Collaborating with frontend teams to ensure smooth API integrations
+
+📂 Featured Projects
+Payroll System – NumeroAlpha LLP
+Java | Spring Boot | RabbitMQ | MySQL | Docker | AWS ECS | GCP
+
+Built modular backend services for real-time payroll processing.
+Implemented asynchronous communication between services for reliability.
+Developed batch processing pipelines for monthly payroll runs.
+Managed cloud deployments and production monitoring.
